@@ -1,3 +1,3 @@
 <?php
-$hash_pwd="d41d8cd98f00b204e9800998ecf8427e";
+$hash_pwd="21232f297a57a5a743894a0e4a801fc3"; /* '' -> d41d8cd98f00b204e9800998ecf8427e , 'admin' -> 21232f297a57a5a743894a0e4a801fc3 */
 ?>
